@@ -144,3 +144,5 @@ Note: Arguments like `NET`, `BLK`, and `GRAPHIC` enable devices in QEMU, which t
 ## Test for oscomp testcases
 
 We can run [testcases of the OS competition](https://github.com/oscomp/testsuits-for-oskernel/tree/pre-2025) with StarryOS. Guidence can be found in [Starry-Tutorial](https://azure-stars.github.io/Starry-Tutorial-Book/ch01-04.html#在-os-比赛上测试-starry).
+
+666
